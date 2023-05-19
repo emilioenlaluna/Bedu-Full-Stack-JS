@@ -22,3 +22,19 @@ git remote add origin https://github.com/emilioenlaluna/Bedu-Full-Stack-JS.git
 git push -u origin main
 
 git status
+
+git branch
+
+git flow
+
+git branch testing
+
+
+git status
+
+git branch testing
+
+
+git checkout testing //cambiar de rama
+
+git branch//ver ramas
