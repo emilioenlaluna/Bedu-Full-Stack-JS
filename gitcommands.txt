@@ -46,3 +46,5 @@ hacer merge de ramas
 //cambiar a la rama
 git checkout main
 git merge testing
+
+git push origin testing
