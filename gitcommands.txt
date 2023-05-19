@@ -1,0 +1,24 @@
+git config --global user.name "emilio"
+
+git config --global user.email "emilioenlaluna@dj.com"
+
+git config --global -l
+
+
+git init
+
+git add .
+
+git commit -m "first commit"
+
+git branch -M main
+
+echo "# Bedu-Full-Stack-JS" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/emilioenlaluna/Bedu-Full-Stack-JS.git
+git push -u origin main
+
+git status
